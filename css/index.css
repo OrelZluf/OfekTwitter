@@ -5,3 +5,7 @@
 .borderless {
 	border-top: 0 none;
 }
+
+.top-buffer{
+	margin-top: 3%;
+}
